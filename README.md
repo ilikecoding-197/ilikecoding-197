@@ -2,7 +2,8 @@
 
 ## About me
 My repos are not really that useful and there just there so I have them. I sometimes (very rarely)
-contribute to other projects.
+contribute to other projects... except for CrackleSDK (pinned here)! I will mostly be on here.
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ilikecoding-197&theme=catppuccin_mocha&show_icons=true"
