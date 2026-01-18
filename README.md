@@ -2,7 +2,10 @@
 
 ## About me
 My repos are not really that useful and there just there so I have them. I sometimes (very rarely)
-contribute to other projects... except for CrackleSDK (pinned here)! I will mostly be on here.
+contribute to other projects... except for CrackleSDK (pinned here)! I'm
+[codingisfun2831t](https://forum.snap.berkeley.edu/u/codingisfun2831t/) on the Snap! forums and
+community site. Yes, I could change my GitHub usernanme to codingisfun2831 (the `t` in the original
+name was a mistake), but I'm worried about repos or such breaking.
 
 <picture>
   <source
